@@ -1,0 +1,43 @@
+{
+  "files": {
+    "static/___day___40/js/0.dd976394.chunk.js": "/static/___day___40/js/0.dd976394.chunk.js",
+    "static/___day___40/js/0.dd976394.chunk.js.map": "/static/___day___40/js/0.dd976394.chunk.js.map",
+    "static/___day___40/css/1.5b6e9cf9.chunk.css": "/static/___day___40/css/1.5b6e9cf9.chunk.css",
+    "static/___day___40/js/1.7cf2665a.chunk.js": "/static/___day___40/js/1.7cf2665a.chunk.js",
+    "static/___day___40/js/1.7cf2665a.chunk.js.map": "/static/___day___40/js/1.7cf2665a.chunk.js.map",
+    "baobeidaola.website.hosts.bottom.index.css": "/static/___day___40/css/baobeidaola.website.hosts.bottom.index.0aca946f.chunk.css",
+    "baobeidaola.website.hosts.bottom.index.js": "/static/___day___40/js/baobeidaola.website.hosts.bottom.index.6600b858.chunk.js",
+    "baobeidaola.website.hosts.bottom.index.js.map": "/static/___day___40/js/baobeidaola.website.hosts.bottom.index.6600b858.chunk.js.map",
+    "baobeidaola.website.index.css": "/static/___day___40/css/baobeidaola.website.index.0aca946f.chunk.css",
+    "baobeidaola.website.index.js": "/static/___day___40/js/baobeidaola.website.index.d2765607.chunk.js",
+    "baobeidaola.website.index.js.map": "/static/___day___40/js/baobeidaola.website.index.d2765607.chunk.js.map",
+    "main.css": "/static/___day___40/css/main.0a7ed12c.chunk.css",
+    "main.js": "/static/___day___40/js/main.4e5cfdf7.chunk.js",
+    "main.js.map": "/static/___day___40/js/main.4e5cfdf7.chunk.js.map",
+    "runtime-baobeidaola.website.hosts.bottom.index.js": "/static/___day___40/js/runtime-baobeidaola.website.hosts.bottom.index.ef61a402.js",
+    "runtime-baobeidaola.website.hosts.bottom.index.js.map": "/static/___day___40/js/runtime-baobeidaola.website.hosts.bottom.index.ef61a402.js.map",
+    "runtime-baobeidaola.website.index.js": "/static/___day___40/js/runtime-baobeidaola.website.index.a88e7d40.js",
+    "runtime-baobeidaola.website.index.js.map": "/static/___day___40/js/runtime-baobeidaola.website.index.a88e7d40.js.map",
+    "runtime-main.js": "/static/___day___40/js/runtime-main.478bc1c0.js",
+    "runtime-main.js.map": "/static/___day___40/js/runtime-main.478bc1c0.js.map",
+    "static/___day___40/js/8.235741b4.chunk.js": "/static/___day___40/js/8.235741b4.chunk.js",
+    "static/___day___40/js/8.235741b4.chunk.js.map": "/static/___day___40/js/8.235741b4.chunk.js.map",
+    "baobeidaola/website/hosts/bottom/index.html": "/baobeidaola/website/hosts/bottom/index.html",
+    "baobeidaola/website/index.html": "/baobeidaola/website/index.html",
+    "index.html": "/index.html",
+    "static/___day___40/css/1.5b6e9cf9.chunk.css.map": "/static/___day___40/css/1.5b6e9cf9.chunk.css.map",
+    "static/___day___40/css/baobeidaola.website.hosts.bottom.index.0aca946f.chunk.css.map": "/static/___day___40/css/baobeidaola.website.hosts.bottom.index.0aca946f.chunk.css.map",
+    "static/___day___40/css/baobeidaola.website.index.0aca946f.chunk.css.map": "/static/___day___40/css/baobeidaola.website.index.0aca946f.chunk.css.map",
+    "static/___day___40/css/main.0a7ed12c.chunk.css.map": "/static/___day___40/css/main.0a7ed12c.chunk.css.map",
+    "static/___day___40/js/0.dd976394.chunk.js.LICENSE.txt": "/static/___day___40/js/0.dd976394.chunk.js.LICENSE.txt",
+    "static/___day___40/js/1.7cf2665a.chunk.js.LICENSE.txt": "/static/___day___40/js/1.7cf2665a.chunk.js.LICENSE.txt",
+    "static/___day___40/media/framework7-icons.css": "/static/___day___40/media/Framework7Icons-Regular.85265588.woff2",
+    "static/___day___40/media/default_index.ejs": "/static/___day___40/media/default_index.596959f0.ejs"
+  },
+  "entrypoints": [
+    "static/___day___40/js/runtime-main.478bc1c0.js",
+    "static/___day___40/js/0.dd976394.chunk.js",
+    "static/___day___40/css/main.0a7ed12c.chunk.css",
+    "static/___day___40/js/main.4e5cfdf7.chunk.js"
+  ]
+}
